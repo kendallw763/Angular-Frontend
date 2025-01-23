@@ -58,7 +58,7 @@ import { AnswerApi } from './services/custom/Answer';
 *  3.- Progressive applications (Angular Mobile, Ionic, WebViews, etc)
 **/
 @NgModule({
-  imports:      [ CommonModule, HttpModule ],
+  imports:      [ CommonModule ],
   declarations: [ ],
   exports:      [ ],
   providers:    [
